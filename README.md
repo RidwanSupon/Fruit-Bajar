@@ -1,5 +1,5 @@
 
-# Real-Time Billing System
+# Fruit Bazar
 This is a Java-based billing application designed for real-time receipt generation. It ensures accurate transaction management by validating product quantities and enforcing bill calculations before receipt printing.
 
 # Features
@@ -19,7 +19,7 @@ IDE: NetBeans
 # Installation and Setup
 Clone the repository:
 
-git clone https://github.com/your-username/real-time-billing-system.git
+git clone https: //github.com/your-username/real-time-billing-system.git](https://github.com/RidwanSupon/Fruit-Bajar
 
 # Project Structure
 
